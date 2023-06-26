@@ -2,7 +2,7 @@
 - 👀 I’m interested in swift lang
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on differential calculus and derivative calculator
-- 📫 How to reach me Alikamitech@gmail.com
+- 📫 How to reach me Alikamrava2003@gmail.com
 
 <!---
 hebbayo/hebbayo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
