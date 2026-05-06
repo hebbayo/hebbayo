@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hebbayo
-- 👀 I’m interested in swift lang
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on differential calculus and derivative calculator
+- 👀 I’m interested in django and react
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me Alikamrava2003@gmail.com
 
 <!---
