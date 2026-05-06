@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hebbayo
+- 👋 Hi, I’m Ali Kamrava ,call me Hebbayo!
 - 👀 I’m interested in django and react
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me Alikamrava2003@gmail.com
